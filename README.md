@@ -1,3 +1,4 @@
-# My Awesome Book
+# Deviceio Ecosystem
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The Deviceio Ecosystem is comprised of a suite of tools enabling sysadmins, developers and power users real-time orchestration capabilities of their devices and related infrastructure. 
+
