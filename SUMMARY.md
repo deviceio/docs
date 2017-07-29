@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Architecture](architecture.md)
+  * Architecture
 * [Hub](hub.md)
 * [Agent](agent.md)
 * [CLI](cli.md)
@@ -11,5 +11,4 @@
 * [Patch Management \(PM\)](patch-management-pm.md)
 * [Brute Force Protection \(BFP\)](brute-force-protection-bfp.md)
 * [Configuration Database \(CMDB\)](configuration-database-cmdb.md)
-* Architecture
 
