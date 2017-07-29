@@ -1,2 +1,2 @@
-Reserved for specific documentation of the **Deviceio Distributed Firewall \(DFW\)** software integration
+Reserved for specific documentation of the **Deviceio Patch Management \(PM\)** software integration
 
