@@ -6,7 +6,7 @@
 * [CLI](cli.md)
 * [Distributed Firewall \(DFW\)](distributed-firewall.md)
 * [Data Loss Prevention \(DLP\)](data-loss-prevention-dlp.md)
-* Temporary Admin \(TA\)
+* [Temporary Admin \(TA\)](temporary-admin-ta.md)
 * Patch Management \(PM\)
 * Brute Force Protection \(BFP\)
 * Configuration Database \(CMDB\)
