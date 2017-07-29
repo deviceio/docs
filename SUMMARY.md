@@ -3,6 +3,9 @@
 * [Introduction](README.md)
   * [Architecture](architecture.md)
 * [Hub](hub.md)
+  * Installation
+  * Accessing the Web Admin
+  * Accessing the HTTP API
 * [Agent](agent.md)
 * [CLI](cli.md)
 * [Distributed Firewall \(DFW\)](distributed-firewall.md)
