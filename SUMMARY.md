@@ -10,5 +10,5 @@
 * [Patch Management \(PM\)](patch-management-pm.md)
 * [Brute Force Protection \(BFP\)](brute-force-protection-bfp.md)
 * [Configuration Database \(CMDB\)](configuration-database-cmdb.md)
-* Configuration Management \(CM\)
+* [Configuration Management \(CM\)](configuration-management-cm.md)
 
