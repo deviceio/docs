@@ -3,7 +3,7 @@
 * [Introduction](README.md)
   * [Architecture](architecture.md)
 * [Hub](hub.md)
-  * Installation
+  * [Installation](hub/installation.md)
   * Accessing the Web Admin
   * Accessing the HTTP API
 * [Agent](agent.md)
