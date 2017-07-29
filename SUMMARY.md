@@ -4,7 +4,7 @@
   * [Architecture](architecture.md)
 * [Hub](hub.md)
   * [Installation](hub/installation.md)
-  * Accessing the Web Admin
+  * [Accessing the Web Admin](hub/accessing-the-web-admin.md)
   * Accessing the HTTP API
 * [Agent](agent.md)
 * [CLI](cli.md)
