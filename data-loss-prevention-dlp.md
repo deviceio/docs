@@ -1,2 +1,2 @@
-Reserved for specific documentation of the **Data Loss Prevention \(DLP\)** software integration
+Reserved for specific documentation of the **Deviceio Data Loss Prevention \(DLP\)** software integration
 
