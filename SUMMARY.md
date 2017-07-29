@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-  * Architecture
+  * [Architecture](architecture.md)
 * [Hub](hub.md)
 * [Agent](agent.md)
 * [CLI](cli.md)
